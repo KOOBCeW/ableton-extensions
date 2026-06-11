@@ -2,6 +2,16 @@
 
 This project collects all the Ableton Extensions made by KOOBCeW.
 
+## Setup
+
+1. In Ableton Live, open **Settings → Extensions**.
+2. Load the extension's `.ablx` file.
+3. Restart Ableton Live.
+4. Right-click on a MIDI or audio track (in Session View / Clip View or Arrangement View) to open the context menu.
+5. Select the desired extension, e.g. **Bento Kick: Fresh Meal**.
+
+When bouncing/exporting sounds, the extension renders the audio and places the resulting clip(s) directly on the selected track or clip slot — no extra steps needed.
+
 ## Available extensions:
 
 ### Bento Kick
