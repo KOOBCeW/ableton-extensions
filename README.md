@@ -1,8 +1,8 @@
-# Ableton Extensions
+# Ableton Extensions
 
 This project collects all the Ableton Extensions made by KOOBCeW.
 
-## Setup
+## Setup
 
 1. In Ableton Live, open **Settings → Extensions**.
 2. Load the extension's `.ablx` file.
@@ -12,7 +12,7 @@ This project collects all the Ableton Extensions made by KOOBCeW.
 
 When bouncing/exporting sounds, the extension renders the audio and places the resulting clip(s) directly on the selected track or clip slot — no extra steps needed.
 
-## Available extensions:
+## Available extensions:
 
 ### Bento Kick
 synthesizes fully shaped kick drums directly inside Ableton Live, with 14 parameters covering pitch envelope, feedback FM, phase distortion, sub oscillator and noise driven transient shaping.
