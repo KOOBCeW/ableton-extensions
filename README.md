@@ -21,3 +21,10 @@ synthesizes fully shaped kick drums directly inside Ableton Live, with 14 parame
 
 Download: [Releases](https://github.com/KOOBCeW/ableton-extensions/releases?q=bento-kick)
 
+### Bento Clap & Snare
+synthesizes claps and snares directly inside Ableton Live, shaping multi-burst noise patterns, a noise tail and a tonal body, with controls for burst count/spacing/spread, tone, bandwidth, decay, drive, fold and pre-hit.
+
+![Bento Clap & Snare extension](bento-clap-and-snare/screen.png)
+
+Download: [Releases](https://github.com/KOOBCeW/ableton-extensions/releases?q=bento-clap-and-snare)
+
